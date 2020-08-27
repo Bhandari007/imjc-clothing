@@ -5,10 +5,9 @@
   justify-content: space-between;
   margin-bottom: 25px;
 
-  .logo-container {
-    height: 100%;
-    width: 70px;
-    padding: 25px;
+  img{
+    width: 45%;
+    object-fit: contain;
   }
 
   .options {
